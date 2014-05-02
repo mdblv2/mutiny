@@ -1,0 +1,16 @@
+mse version: 2.0.0
+game: Mutiny
+short name: Mutiny 
+full name: Mutiny-style
+icon: icon.png
+position hint: 1
+installer group: mutiny/style
+
+depends on:
+	package: mutiny.mse-game
+	package: mutiny.mse-symbol-font
+
+card width: 375
+card height: 523
+card dpi: 150
+# By Thrillhouse

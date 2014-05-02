@@ -1,0 +1,13 @@
+mse version: 2.0.0. 
+short name: Mutiny
+full name: Mutiny
+installer group: magic/game files
+icon: card-back.png
+position hint: 01
+
+
+version: 2014-05-01
+
+init script: include file: script
+
+include file: card_fields
